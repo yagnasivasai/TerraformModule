@@ -1,1 +1,0 @@
-user_names = ["test", "test2", "test3"]
